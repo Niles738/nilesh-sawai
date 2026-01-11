@@ -1,0 +1,8 @@
+{
+  "name": "Copy of StudyGram",
+  "description": "A vibrant social learning platform where students share notes, track study progress, and get AI-powered learning assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
